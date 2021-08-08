@@ -5,7 +5,7 @@ const config = {
   mongoUri:
     process.env.MONGODB_URI ||
     process.env.MONGO_HOST ||
-    "mongodb+srv://marketplace:wy6524615@cluster0.oe2ip.mongodb.net/mern-marketplace?retryWrites=true&w=majority",
+    "mongodb+srv://marketplace:wy6524615@cluster0.89v1c.mongodb.net/mern-marketplace?retryWrites=true&w=majority",
 };
 
 export default config;
